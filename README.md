@@ -2,4 +2,6 @@ TuneID is designed to empower musicians, whether they play for fun or profession
 
 TuneID currently consists of a basic HTML framework that serves as the foundation for future development. The next steps in the project include researching the API and integrating JavaScript to add functionality and bring the site to life.
 
+As a group, we gained a solid understanding of HTML and the basics of web development. 
+
 For future students working on this project, communication is key. When multiple people are contributing to the same project, it's important to divide tasks clearly to avoid overlapping work and confusion. Effective collaboration and regular check-ins will keep the team organized and productive.
